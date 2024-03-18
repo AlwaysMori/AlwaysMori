@@ -32,7 +32,7 @@
     <a href="https://github.com/AlwaysMori/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AlwaysMori's streak" src="https://streak-stats.demolab.com/?user=AlwaysMori&theme=monokai-metallian&hide_border=true"/>
     </a>
-    <p>🔥 Get streak stats for your profile at <a href="AlwaysMori.github.io">AlwaysMori.github.io</a></p>
+    <p>🔥I'am a Newbie here
   </p>
 
   <h3>💻💬 GitHub Profile Stats</h3>
@@ -81,8 +81,6 @@
   <a href="https://commits.top/vietnam_private.html">
   <img src="http://iot.fbiego.com/api/v1/commits?user=AlwaysMori&country=VietNam_Private&bg_color=293035&text_color=fafafa&border_color=293035">
   </a>
-
-  <p><a href="AlwaysMori.github.io"><img src="https://github.com/AlwaysMori/AlwaysMori/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="@AlwaysMori's Web AlwaysMori"></a></p>
   
 </details>
 

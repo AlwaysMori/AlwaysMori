@@ -23,7 +23,7 @@
 
   ![TIEN2K3](gitartwork.svg)
 
-  ![Grid-Snake](https://raw.githubusercontent.com/AlwaysMori/AlwaysMori/main/dist/grid-snake.svg)
+  ![Grid-Snake](https://raw.githubusercontent.com/AlwaysMori/AlwaysMori/main/dist/grid-snake-dark.svg)
 
   <h3>🔥 Streak Stats</h3>
 

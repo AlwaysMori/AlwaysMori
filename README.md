@@ -16,7 +16,7 @@
   <a href="https://www.buymeacoffee.com/hoangtien2k3"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
 
-[<img align="right" width="390" alt="🦑" src="banner.png">](#)
+[<img align="right" width="390" alt="🦑" src="771a9a50e077dd612308e34765ea6ce1.jpg">](#)
 
 
 ## 👋 Hi there, Good day!

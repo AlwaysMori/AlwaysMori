@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Snake Eat My contribution Graph
+!(https://github.com/AlwaysMori/AlwaysMori/blob/output/github-contribution-grid-snake.gif)

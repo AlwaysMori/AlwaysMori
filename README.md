@@ -45,13 +45,7 @@
 
   ![Grid-Snake](https://raw.githubusercontent.com/AlwaysMori/AlwaysMori/main/dist/grid-snake-dark.svg)
 
-  <h3>🔥 Streak Stats</h3>
-
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
-    <a href="https://github.com/AlwaysMori/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="AlwaysMori's streak" src="https://streak-stats.demolab.com/?user=AlwaysMori&theme=monokai-metallian&hide_border=true"/>
-    </a>
     <p>🔥I'am a Newbie here
   </p>
 

@@ -19,15 +19,16 @@
 [<img align="right" width="390" alt="🦑" src="771a9a50e077dd612308e34765ea6ce1.jpg">](#)
 
 
-## 👋 Hi there, Good day!
+## 👋 Hi there, I'm Newbie here, help me to become a better person!
 
 #### **Here are facts about me to get you started**
-- 🔭 Currently immersed in an exciting new project - stay tuned for updates!
-- 💬 Open to collaboration on any backend projects and always eager to learn something new.
-- 😍 Ask me about *Java, Kotlin* ... 😅[profile-summary-for-github](https://profile-summary-for-github.com/user/AlwaysMori)
+- 🔭 A newbie programmer
+- 💬 Feel free to me.
+- 😍 have an interest in *Java, Kotlin* 
 - 🤝 Let's connect! Find me on
   -  `gmail`: alwaysmori16@gmail.com
-- ⚡ Don't forget to follow and star, support my projects! ❤️💕✌️
+  -  `Discord` : alwaysmori
+
 
 
 <details>

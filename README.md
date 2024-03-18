@@ -18,7 +18,7 @@
 #### **Here are facts about me to get you started**
 - 🔭 A newbie programmer
 - 💬 Feel free to me.
-- 😍 have an interest in *Java, Kotlin* 
+- 😍 have an interest in *Javascript, php, Kotlin* 
 - 🤝 Let's connect! Find me on
   -  `gmail`: alwaysmori16@gmail.com
   -  `Discord` : alwaysmori

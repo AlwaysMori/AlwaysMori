@@ -3,7 +3,7 @@
 
 <!-- Social icons section -->
 
-[<img align="right" width="390" alt="🦑" src="771a9a50e077dd612308e34765ea6ce1.jpg">](#)
+[<img align="right" width="390" alt="🦑" src="hutao.png">](#)
 
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>

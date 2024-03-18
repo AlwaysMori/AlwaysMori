@@ -13,7 +13,7 @@ jobs:
       - uses: jasineri/gitartwork@v1
         with:
            user_name: AlwaysMori
-           text: Mori
+           text: M o r i
       - name: Set Git User
         run: |
           git config user.name "AlwaysMori"

@@ -24,10 +24,9 @@
 #### **Here are facts about me to get you started**
 - 🔭 Currently immersed in an exciting new project - stay tuned for updates!
 - 💬 Open to collaboration on any backend projects and always eager to learn something new.
-- 😍 Ask me about *Java, Kotlin* ... 😅[profile-summary-for-github](https://profile-summary-for-github.com/user/hoangtien2k3)
+- 😍 Ask me about *Java, Kotlin* ... 😅[profile-summary-for-github](https://profile-summary-for-github.com/user/AlwaysMori)
 - 🤝 Let's connect! Find me on
-  -  `gmail`: hoangtien2k3qx1@gmail.com
-  -  `website`: [*hoangtien2k3.github.io*](https://hoangtien2k3.github.io/)
+  -  `gmail`: alwaysmori16@gmail.com
 - ⚡ Don't forget to follow and star, support my projects! ❤️💕✌️
 
 

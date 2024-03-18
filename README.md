@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ## Snake Eat My contribution Graph
-!(https://github.com/AlwaysMori/AlwaysMori/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/AlwaysMori/AlwaysMori/blob/output/github-contribution-grid-snake.gif)

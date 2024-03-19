@@ -13,7 +13,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
 </div>
 
-### 👋 **Hi there, I'm Newbie here, help me to become a better person!**
+### 👋 **Hi there, I'm Newbie here, help me to become a better progammer!**
 
 #### **Here are facts about me to get you started**
 - 🔭 A newbie programmer

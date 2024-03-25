@@ -2,7 +2,6 @@
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.demolab.com?font=&size=27&pause=1000&color=F03B9E&center=true&vCenter=true&repeat=false&width=435&lines=AlwaysMori"></a>
 
-<!-- Social icons section -->
 
 [<img align="right" width="390" alt="🦑" src="hutao.png">](#)
 

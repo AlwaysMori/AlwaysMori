@@ -3,7 +3,7 @@
 I'm Nanda — just your friendly neighborhood dev
 ---
 ### 💻 About Me
-- 🌐 My Portfolio: [AlwaysMori](www.nsvp.my.id)
+- 🌐 My Portfolio: [AlwaysMori](https://www.nsvp.my.id)
 - 📫 Reach me via: [nandaet16@gmail.com](mailto:nandaet16@gmail.com)
 
 

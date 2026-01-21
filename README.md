@@ -14,3 +14,5 @@ I'm Nanda — just your friendly neighborhood dev
 ---
 
 Thanks for visiting! 🌟
+
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=alwaysmori.alwaysmori)

@@ -1,5 +1,3 @@
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=alwaysmori.alwaysmori)
-
 ### Hi there 👋
 
 I'm Nanda — just your friendly neighborhood dev
@@ -14,5 +12,6 @@ I'm Nanda — just your friendly neighborhood dev
 <img src="https://i.pinimg.com/originals/95/b1/d0/95b1d08de5b303cb5ab80af7b08dbdc4.gif" width="300"/>
 
 ---
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=alwaysmori.alwaysmori)
 
 Thanks for visiting! 🌟
